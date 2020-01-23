@@ -2,7 +2,7 @@
 
 # Turo-WebScraping and Data Analysis
 
-####Getting Data from Turo(web-scraping) Platform in order to find out (Popular cars model/host status/ large trip model with 5 stars host) 
+#### Getting Data from Turo(web-scraping) Platform in order to find out (Popular cars model/host status/ large trip model with 5 stars host) 
 
 ## How to do it
 
